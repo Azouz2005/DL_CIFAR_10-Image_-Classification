@@ -1,0 +1,26 @@
+====================================================
+  CIFAR10 Dataset — Download Information
+====================================================
+
+The CIFAR10 dataset is built directly into PyTorch (torchvision).
+No manual download is required.
+
+It downloads automatically when you run the notebook:
+
+    torchvision.datasets.CIFAR10(root='./data', download=True, ...)
+
+----------------------------------------------------
+Official Dataset Page:
+https://www.cs.toronto.edu/~kriz/cifar.html
+
+PyTorch Docs:
+https://pytorch.org/vision/stable/datasets.html#cifar
+
+----------------------------------------------------
+Dataset Details:
+  - 60,000 color images (32x32 RGB)
+  - 50,000 training images
+  - 10,000 test images
+  - 10 classes
+  - ~170 MB download size
+====================================================
