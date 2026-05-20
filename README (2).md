@@ -148,8 +148,8 @@ cifar10-resnet/
 ## 🧑‍💻 Author
 
 **[Your Name]**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
+- GitHub: (https://github.com/Azouz2005
+- LinkedIn: (https://www.linkedin.com/in/mohamed-azouz-54a467327/))
 
 ---
 
